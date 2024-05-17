@@ -2,7 +2,7 @@
 
 body   /* Style à appliquer sur l'ensemble du document */
 {
-  background-color: #72B6E2 ;  /* Couleur de fond : bleu */
+  background-color: blue ;  /* Couleur de fond : bleu */
   margin-right: 2%;           /* Gestion des marges latérales */
   margin-left: 2%;
   font-family: Helvetica, Arial, sans-serif;
@@ -14,7 +14,7 @@ header
 h1    /* Style à appliquer sur les titres h1 */
 {
   text-align: center;
-  color: #0A6FB0;
+  color: white;
   letter-spacing: 0.5em;
 }
 h2     /* Style à appliquer sur les sous-titres h2 */
